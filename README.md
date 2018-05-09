@@ -21,6 +21,7 @@ Please also follow the Example.csv file in ./data folder to form your own data
 
 The data should be like:
 
+```
 ID feature_name_1 feature_name_2 .... feature_name_n Label
 1        x             x                   x           A
 2        x             x                   x           B
@@ -28,7 +29,7 @@ ID feature_name_1 feature_name_2 .... feature_name_n Label
 .
 .
 m        x             x                   x           B
-
+```
 
 
 
